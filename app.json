@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "god of thousands",
-    "slug": "god-of-thousands",
+    "name": "book-santa-stage-7",
+    "slug": "book-santa-stage-7",
     "platforms": [
       "ios",
       "android",
@@ -24,10 +24,9 @@
     "ios": {
       "supportsTablet": true
     },
-    "android": {
+     "android": {
       "package": "com.bookSanta.bookSanta",
       "versionCode": 1
-    },
-    "description": ""
+    }
   }
 }
